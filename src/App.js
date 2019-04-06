@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import CircularNavbar from '../src/Components/CircularNavbar/CircularNavbar';
 import logo from './logo.svg';
 import './App.css';
 
@@ -16,9 +17,9 @@ class App extends Component {
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
-          >
-            Learn React
+          >            
           </a>
+          <CircularNavbar/>
         </header>
       </div>
     );
