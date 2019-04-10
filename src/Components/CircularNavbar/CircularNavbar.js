@@ -11,15 +11,15 @@ class CircularNavbar extends Component {
                         <span class="hamburger"></span>
                     </span>
                     <ul>
-                        <li>
+                        
                             <a href="#">Home</a>
-                        </li>
-                        <li>
+                        
+                        
                             <a href="#">About</a>
-                        </li>
-                        <li>
+                        
+                        
                             <a href="#">Work</a>
-                        </li>
+                        
                     </ul>
                 </label>
             </div>
